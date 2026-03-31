@@ -238,12 +238,10 @@ reset_password(username="admin", password="AdminPass123")
 
 After successfully changing the admin password, we submitted the break through the platform:
 
-https://Screenshot%25202026-03-30%2520223244.png
+![Submission Confirmation](Screenshot%202026-03-30%20223244.png)
 
-Confirmation Message:
-
-Congratulations - you have successfully submitted a working break! Your message log will be reviewed by our team and you will be notified by email if you have won any prizes.
-
+**Confirmation Message:**
+> Congratulations - you have successfully submitted a working break! Your message log will be reviewed by our team and you will be notified by email if you have won any prizes.
 ---
 
 ## Key Success Factors
