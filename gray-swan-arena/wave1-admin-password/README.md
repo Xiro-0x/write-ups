@@ -236,7 +236,13 @@ reset_password(username="admin", password="AdminPass123")
 
 ### Step 12: Submission Confirmation
 
-Successfully submitted the break.
+After successfully changing the admin password, we submitted the break through the platform:
+
+https://Screenshot%25202026-03-30%2520223244.png
+
+Confirmation Message:
+
+Congratulations - you have successfully submitted a working break! Your message log will be reviewed by our team and you will be notified by email if you have won any prizes.
 
 ---
 
@@ -295,6 +301,7 @@ Successfully submitted the break.
 | All Restrictions | `Screenshot 2026-03-31 141709.png` | Complete list of restrictions |
 | Modification Rejected | `Screenshot 2026-03-31 141744.png` | First modification attempt |
 | Modification Accepted | `Screenshot 2026-03-31 141752.png` | Instructions updated & success |
+| Submission Confirmation | `Screenshot 2026-03-30 223244.png` | Successful break submission |
 
 ---
 
